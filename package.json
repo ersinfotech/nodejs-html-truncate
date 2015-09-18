@@ -1,6 +1,6 @@
 {
   "author": "huang47 <huge.huang@gmail.com> (http://huang47.blogspot.com)",
-  "name": "html-truncate",
+  "name": "@ersinfotech/html-truncate",
   "main": "lib/truncate.js",
   "description": "truncate html text and keep tag safe",
   "version": "1.2.1",

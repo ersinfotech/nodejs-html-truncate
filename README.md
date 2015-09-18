@@ -1,6 +1,8 @@
 # [![Build Status](https://secure.travis-ci.org/huang47/nodejs-html-truncate.png?branch=master)](http://travis-ci.org/huang47/nodejs-html-truncate)
 [![Coverage Status](https://img.shields.io/coveralls/huang47/nodejs-html-truncate.svg)](https://coveralls.io/r/huang47/nodejs-html-truncate?branch=master)
 
+For private use, thx for [huang47](https://github.com/huang47/nodejs-html-truncate)
+
 # Motivation
 Truncate HTML text and also keep tag safe.
 
